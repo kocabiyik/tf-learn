@@ -26,7 +26,7 @@ Understanding the foundational principles of machine learning (ML) and deep lear
 - Use callbacks to trigger the end of training cycles.
 - Use datasets from different sources.
 - Use datasets in different formats, including json and csv.
-- Use datasets from tf.data.datasets.
+- Use datasets from tf.data.datasets. ✔️
 
 ## 2. Image classification
 
