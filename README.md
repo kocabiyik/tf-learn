@@ -8,7 +8,7 @@ Source: https://www.tensorflow.org/site-assets/downloads/marketing/cert/TF_Certi
 
 Understanding the foundational principles of machine learning (ML) and deep learning (DL) using TensorFlow 2.x.
 
-- Use TensorFlow 2.x.
+- Use TensorFlow 2.x. ✔️
 - Build, compile and train machine learning (ML) models using TensorFlow.
 - Preprocess data to get it ready for use in a model.
 - Use models to predict results.
