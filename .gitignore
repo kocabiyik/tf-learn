@@ -1,7 +1,11 @@
-### JupyterNotebooks ###
+# Jupyter Notebooks
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
 # IPython
 profile_default/
 ipython_config.py
+
+# data files
+.npy
+.csv
