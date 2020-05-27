@@ -14,3 +14,7 @@ ipython_config.py
 
 # system
 .DS_Store
+
+# image
+*.png
+*.PNG
