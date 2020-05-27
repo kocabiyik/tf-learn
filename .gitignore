@@ -9,3 +9,8 @@ ipython_config.py
 # data files
 *.npy
 *.csv
+*.json
+*.tsv
+
+# system
+.DS_Store
