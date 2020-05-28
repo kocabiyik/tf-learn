@@ -30,6 +30,8 @@ Understanding the foundational principles of machine learning (ML) and deep lear
 
 ## 2. Image classification
 
+_TODO: Re-run the notebooks after the GPU Installation_  
+
 Building image recognition and object detection models with deep neural networks and convolutional neural networks using TensorFlow 2.x. 
 
 - Define Convolutional neural networks with Conv2D and pooling layers. ✔️  
