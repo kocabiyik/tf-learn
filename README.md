@@ -46,11 +46,11 @@ Building image recognition and object detection models with deep neural networks
 
 Using neural networks to solve natural language processing problems using TensorFlow.
 
-- Build natural language processing systems using TensorFlow.
+- Build natural language processing systems using TensorFlow. ✔️  
 - Prepare text to use in TensorFlow models. ✔️  
-- Build models that identify the category of a piece of text using binary categorization
+- Build models that identify the category of a piece of text using binary categorization ✔️
 - Build models that identify the category of a piece of text using multi-class categorization
-- Use word embeddings in your TensorFlow model.
+- Use word embeddings in your TensorFlow model. ✔️
 - Use LSTMs in your model to classify text for either binary or multi-class categorization.
 - Add RNN and GRU layers to your model.
 - Use RNNS, LSTMs, GRUs and CNNs in models that work with text.
