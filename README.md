@@ -4,7 +4,7 @@ Notes for Tensorflow Certificate Exam Preparation
 
 Source: https://www.tensorflow.org/site-assets/downloads/marketing/cert/TF_Certificate_Candidate_Handbook.pdf
 
-## 1. Build and train neural network models using TensorFlow 2.x
+## 1. Build and Train Neural Network Models Using TensorFlow 2.x
 
 Understanding the foundational principles of machine learning (ML) and deep learning (DL) using TensorFlow 2.x.
 
@@ -28,7 +28,7 @@ Understanding the foundational principles of machine learning (ML) and deep lear
 - Use datasets in different formats, including json(✔️) and csv (✔️).
 - Use datasets from tf.data.datasets. ✔️
 
-## 2. Image classification
+## 2. Image Classification
 
 _TODO: Re-run the notebooks after the GPU Installation_  
 
@@ -42,7 +42,7 @@ Building image recognition and object detection models with deep neural networks
 - Use ImageDataGenerator. ✔️  
 - Understand how ImageDataGenerator labels images based on the directory structure. ✔️  
 
-## 3. Natural language processing (NLP)
+## 3. Natural Language Processing (NLP)
 
 Using neural networks to solve natural language processing problems using TensorFlow.
 
@@ -56,7 +56,7 @@ Using neural networks to solve natural language processing problems using Tensor
 - Use RNNS, LSTMs, GRUs and CNNs in models that work with text. ✔️  
 - Train LSTMs on existing text to generate text (such as songs and poetry)
 
-## 4. Time series, sequences and predictions
+## 4. Time Series, Sequences and Predictions
 
 Understanding how to solve time series and forecasting problems in TensorFlow. 
 
