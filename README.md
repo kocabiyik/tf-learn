@@ -30,8 +30,6 @@ Understanding the foundational principles of machine learning (ML) and deep lear
 
 ## 2. Image Classification
 
-_TODO: Re-run the notebooks after the GPU Installation_  
-
 Building image recognition and object detection models with deep neural networks and convolutional neural networks using TensorFlow 2.x. 
 
 - Define Convolutional neural networks with Conv2D and pooling layers. ✔️  
@@ -68,5 +66,5 @@ Understanding how to solve time series and forecasting problems in TensorFlow.
 - Use TensorFlow for forecasting.  ✔️  
 - Prepare features and labels. ✔️
 - Identify and compensate for sequence bias.
-- Adjust the learning rate dynamically in time series, sequence and prediction models.
+- Adjust the learning rate dynamically in time series, sequence and prediction models. ✔️  
 
