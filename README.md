@@ -16,7 +16,7 @@ Understanding the foundational principles of machine learning (ML) and deep lear
 - Build and train models for binary classification.
 - Build and train models for multi-class categorization. ✔️
 - Plot loss and accuracy of a trained model. ✔️
-- Identify strategies to prevent overfitting, including augmentation and dropout.
+- Identify strategies to prevent overfitting, including augmentation and dropout. ✔️  
 - Use pretrained models (transfer learning).
 - Extract features from pre-trained models.
 - Ensure that inputs to a model are in the correct shape. ✔️
