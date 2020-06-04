@@ -22,7 +22,7 @@ Understanding the foundational principles of machine learning (ML) and deep lear
 - Ensure that inputs to a model are in the correct shape. ✔️
 - Ensure that you can match test data to the input shape of a neural network. ✔️
 - Ensure you can match output data of a neural network to specified input shape for test data. ✔️
-- Understand batch loading of data.
+- Understand batch loading of data. ✔️  
 - Use callbacks to trigger the end of training cycles. ✔️
 - Use datasets from different sources.
 - Use datasets in different formats, including json(✔️) and csv (✔️).
