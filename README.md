@@ -24,7 +24,7 @@ Understanding the foundational principles of machine learning (ML) and deep lear
 - Ensure you can match output data of a neural network to specified input shape for test data. ✔️
 - Understand batch loading of data. ✔️  
 - Use callbacks to trigger the end of training cycles. ✔️
-- Use datasets from different sources.
+- Use datasets from different sources. ✔️  
 - Use datasets in different formats, including json(✔️) and csv (✔️).
 - Use datasets from tf.data.datasets. ✔️
 
@@ -49,11 +49,11 @@ Using neural networks to solve natural language processing problems using Tensor
 - Build natural language processing systems using TensorFlow. ✔️  
 - Prepare text to use in TensorFlow models. ✔️  
 - Build models that identify the category of a piece of text using binary categorization ✔️
-- Build models that identify the category of a piece of text using multi-class categorization
+- Build models that identify the category of a piece of text using multi-class categorization ✔️ 
 - Use word embeddings in your TensorFlow model. ✔️
-- Use LSTMs in your model to classify text for either binary or multi-class categorization.
-- Add RNN and GRU layers to your model.
-- Use RNNS, LSTMs, GRUs and CNNs in models that work with text.
+- Use LSTMs in your model to classify text for either binary or multi-class categorization. ✔️  
+- Add RNN and GRU layers to your model. ✔️  
+- Use RNNS, LSTMs, GRUs and CNNs in models that work with text. ✔️  
 - Train LSTMs on existing text to generate text (such as songs and poetry)
 
 ## 4. Time series, sequences and predictions
